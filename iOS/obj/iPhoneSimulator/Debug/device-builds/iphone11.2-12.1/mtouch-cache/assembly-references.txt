@@ -1,0 +1,8 @@
+/Users/ilijakocev/Projects/UnsortedData/iOS/bin/iPhoneSimulator/Debug/UnsortedData.iOS.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.12/lib/mono/Xamarin.iOS/mscorlib.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.12/lib/mono/Xamarin.iOS/../../64bits/Xamarin.iOS.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.12/lib/mono/Xamarin.iOS/System.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.12/lib/mono/Xamarin.iOS/Mono.Security.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.12/lib/mono/Xamarin.iOS/System.Xml.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.12/lib/mono/Xamarin.iOS/System.Core.dll
+/Users/ilijakocev/Projects/UnsortedData/packages/SciChart.iOS.2.2.1.839/lib/Xamarin.iOS10/SciChart.iOS.Charting.dll

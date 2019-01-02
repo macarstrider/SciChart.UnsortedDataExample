@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{6E02DF82-41D6-4F09-BED3-47434C3959FB}|Default">
+  <MonoDevelop.Ide.ItemProperties.UnsortedData FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/ViewController.cs">
+    <Files>
+      <File FileName="Droid/MainActivity.cs" Line="44" Column="112" />
+      <File FileName="iOS/ViewController.cs" Line="28" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.UnsortedData.iOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F1F57F88-4A25-4E58-BF83-C6D8A34CFB3B">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.UnsortedData.iOS>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.UnsortedData.Droid PreferredExecutionTarget="Android.pixel" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

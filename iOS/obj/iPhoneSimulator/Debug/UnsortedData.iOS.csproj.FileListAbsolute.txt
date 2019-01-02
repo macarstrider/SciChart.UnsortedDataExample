@@ -1,0 +1,14 @@
+/Users/ilijakocev/Projects/UnsortedData/iOS/bin/iPhoneSimulator/Debug/UnsortedData.iOS.exe
+/Users/ilijakocev/Projects/UnsortedData/iOS/bin/iPhoneSimulator/Debug/UnsortedData.iOS.pdb
+/Users/ilijakocev/Projects/UnsortedData/iOS/bin/iPhoneSimulator/Debug/SciChart.iOS.Charting.dll
+/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/actool/_PartialAppManifest.items
+/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/actool/_BundleResourceWithLogicalName.items
+/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/coremlc/_PartialAppManifest.items
+/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/optimized/
+/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/UnsortedData.iOS.csprojAssemblyReference.cache
+/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/UnsortedData.iOS.csproj.CoreCompileInputs.cache
+/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/UnsortedData.iOS.csproj.CopyComplete
+/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/UnsortedData.iOS.exe
+/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/UnsortedData.iOS.pdb

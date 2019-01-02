@@ -1,0 +1,1528 @@
+Function=xamarin_timezone_get_names
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_get_locale_country_code
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/System.dll
+Function=xamarin_get_block_descriptor
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSend
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSendSuper
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSend_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSendSuper_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_NVector3_int_CGSize
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_NVector3_int_CGSize
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_stret_NVector3_int_CGSize
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_stret_NVector3_int_CGSize
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_NVector3_Int64_CGSize
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_NVector3_Int64_CGSize
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_stret_NVector3_Int64_CGSize
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_stret_NVector3_Int64_CGSize
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4_int_CGSize
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4_int_CGSize
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4_int_CGSize
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4_int_CGSize
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4_Int64_CGSize
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4_Int64_CGSize
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4_Int64_CGSize
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4_Int64_CGSize
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_int_CGSize_nfloat_nfloat
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_int_CGSize_nfloat_nfloat
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_int_CGSize_nfloat_nfloat
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_int_CGSize_nfloat_nfloat
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Int64_CGSize_nfloat_nfloat
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Int64_CGSize_nfloat_nfloat
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Int64_CGSize_nfloat_nfloat
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Int64_CGSize_nfloat_nfloat
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_int
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_int
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_int
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_int
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Int64
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Int64
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Int64
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Int64
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4_NVector3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4_NVector3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix4_NVector3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix4_NVector3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4_NVector3_NVector3_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4_NVector3_NVector3_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSend
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSendSuper
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSend_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSendSuper_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_UInt32
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_UInt32
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_UInt64
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_UInt64
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_nint_nint_nint_UInt32
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_nint_nint_nint_UInt32
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_nint_nint_nint_UInt64
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_nint_nint_nint_UInt64
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_UInt32_nint_UInt32
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_UInt32_nint_UInt32
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_UInt64_nint_UInt64
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_UInt64_nint_UInt64
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSend
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSendSuper
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSend_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSendSuper_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSend
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSendSuper
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSend_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSendSuper_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i_int_int_bool
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i_int_int_bool
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i_int_int_bool_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i_int_int_bool_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_Vector2_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_Vector2_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_Vector2
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_Vector2
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSend_nuint
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSendSuper_nuint
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSend_stret_nuint
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSendSuper_stret_nuint
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSend_Vector2
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSendSuper_Vector2
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3d
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3d
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2d_Vector2d_Vector2i_bool
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2d_Vector2d_Vector2i_bool
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSend_Vector2i
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSendSuper_Vector2i
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_float_Vector2i
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_float_Vector2i
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSend
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSendSuper
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSend_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSendSuper_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKBox_float
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKBox_float
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_GKBox
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_GKBox
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKBox
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKBox
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_nuint
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_nuint
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_nuint
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_nuint
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_nuint
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_nuint
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_nuint
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_nuint
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKQuad_float
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKQuad_float
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_GKQuad
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_GKQuad
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKQuad
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKQuad
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2_float
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2_float
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2_Vector2
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2_Vector2
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSend
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSendSuper
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSend_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSendSuper_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2_int
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2_int
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2_Int64
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2_Int64
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSend
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSendSuper
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSend_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSendSuper_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_ref_MPSImageHistogramInfo
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_ref_MPSImageHistogramInfo
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4d_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4d_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_stret_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_stret_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2d_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2d_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_stret_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_stret_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3d_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3d_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSend_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSendSuper_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSend_stret_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSendSuper_stret_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4d_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4d_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_stret_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_stret_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSend_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSendSuper_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSend_stret_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSendSuper_stret_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4d
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4d
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_MDLAxisAlignedBoundingBox_bool
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_MDLAxisAlignedBoundingBox_bool
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3_Vector3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3_Vector3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector2i_Vector2i
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector2i_Vector2i
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector2i_Vector2i
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector2i_Vector2i
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_bool_IntPtr_Vector2i_nint_nuint_int_bool
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_bool_IntPtr_Vector2i_nint_nuint_int_bool
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_bool_IntPtr_Vector2i_nint_nuint_Int64_bool
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_bool_IntPtr_Vector2i_nint_nuint_Int64_bool
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_int_IntPtr_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_int_IntPtr_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_Int64_IntPtr_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_Int64_IntPtr_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_float_IntPtr_Vector2i
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_float_IntPtr_Vector2i
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_IntPtr_Vector2i
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_IntPtr_Vector2i
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector2
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector2
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector2
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector2
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Matrix4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Matrix4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Matrix4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Matrix4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_NMatrix4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_NMatrix4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_NMatrix4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_NMatrix4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_bool_int_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_bool_int_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_bool_Int64_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_bool_Int64_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_int_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_int_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_Int64_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_Int64_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_int_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_int_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_Int64_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_Int64_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_bool_int_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_bool_int_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_bool_Int64_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_bool_Int64_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_bool_int_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_bool_int_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_bool_Int64_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_bool_Int64_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_Int64_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_Int64_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_bool_int_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_bool_int_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_bool_Int64_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_bool_Int64_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_UInt32_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_UInt32_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_int_bool_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_int_bool_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_Int64_bool_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_Int64_bool_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2i_int_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2i_int_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2i_Int64_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2i_Int64_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_nuint_nuint_int_bool_bool_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_nuint_nuint_int_bool_bool_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_nuint_nuint_Int64_bool_bool_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_nuint_nuint_Int64_bool_bool_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_int_bool_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_int_bool_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_Int64_bool_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_Int64_bool_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_nuint_int_bool_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_nuint_int_bool_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_nuint_Int64_bool_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_nuint_Int64_bool_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector2i_nint_float_IntPtr_IntPtr_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector2i_nint_float_IntPtr_IntPtr_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector2i_IntPtr_IntPtr_IntPtr_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector2i_IntPtr_IntPtr_IntPtr_IntPtr
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_Int64
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_Int64
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_int_bool
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_int_bool
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_Int64_bool
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_Int64_bool
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_Vector2i_float_float_float_float
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_Vector2i_float_float_float_float
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Int64_Vector2i_float_float_float_float
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Int64_Vector2i_float_float_float_float
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_Vector2i_float_float_float_float_float
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_Vector2i_float_float_float_float_float
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Int64_Vector2i_float_float_float_float_float
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Int64_Vector2i_float_float_float_float_float
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_Vector2i
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_Vector2i
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_Vector2i_float
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_Vector2i_float
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Matrix4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Matrix4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Matrix4_bool
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Matrix4_bool
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4_bool
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4_bool
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix4_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix4_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_IntPtr_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_IntPtr_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret_IntPtr_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret_IntPtr_Double
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSend
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSendSuper
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSend_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSendSuper_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_MDLAxisAlignedBoundingBox_float
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_MDLAxisAlignedBoundingBox_float
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector4i_bool_bool_bool_bool
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector4i_bool_bool_bool_bool
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4i
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4i
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_MDLVoxelIndexExtent2
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_MDLVoxelIndexExtent2
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSend_Vector3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSendSuper_Vector3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSend_stret_Vector3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSendSuper_stret_Vector3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector4i
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector4i
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector4i
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector4i
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_Vector4i
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_Vector4i
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret_Vector4i
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret_Vector4i
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSend
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSendSuper
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSend_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSendSuper_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__void_objc_msgSend_Vector4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__void_objc_msgSendSuper_Vector4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaternion
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaternion
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSend
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSendSuper
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSend_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSendSuper_stret
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix2
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix2
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix2
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix2
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix2
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix2
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_nint
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_nint
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_nint
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_nint
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_CGPoint__VNNormalizedFaceBoundingBoxPointForLandmarkPoint_Vector2_CGRect_nuint_nuint_string
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_CGPoint__VNImagePointForFaceLandmarkPoint_Vector2_CGRect_nuint_nuint_string
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_1
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_2
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_3
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_4
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_5
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_6
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_7
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_8
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_9
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_init_nsthread
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/System.dll
+Function=CloseZStream
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/System.dll
+Function=Flush
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/System.dll
+Function=ReadZStream
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/System.dll
+Function=WriteZStream
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/System.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIDataSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIAxisMarkerAnnotation
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIBoxAnnotation
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCILineAnnotation
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCITextAnnotation
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIDateRange
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIDoubleRange
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIFloatRange
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIIndexRange
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIIntegerRange
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCITextureOpenGL
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIRenderableSeriesCollection
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIAxisCollection
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIChartModifierCollection
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIAnnotationCollection
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCICustomAnnotation
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIThemeManager
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIAnchorPointAnnotation
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIAnimation
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIAnimationsController
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIAnnotationBase
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIAnnotationCreationModifier
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIAnnotationLabelStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIArrayController
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIArrayController2D
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIArrayControllerFIFO
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIAxisArea
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIAxisAreaSizeSynchronization
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIAxisBase
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIAxisCore
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIAxisDataView
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIAxisDragModifierBase
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIAxisHitTestProvider
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIAxisInfo
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIAxisInteractivityHelper
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIAxisMarkerAnnotationBase
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIAxisMarkerAnnotationStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIAxisParams
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIAxisPinchZoomModifier
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIAxisRangeSynchronization
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIAxisStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIBandHitTestProvider
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIBandSeriesStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIBaseColumnRenderableSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIBaseMountainRenderableSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIBoxAnnotationStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIBrushColoredTexture
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIBrushLinearGradient
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIBrushPalettedTexture
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIBrushSolid
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIBrushStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIBrushTexture
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIBubbleHitTestProvider
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIBubbleRenderableSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIBubbleSeriesStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCICallbackHandler
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCICallbackHelper
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCICandlestickHitTestProvider
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCICandlestickSeriesStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCICategoryDateTimeAxis
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCICategoryDateTimeLabelProvider
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCICategoryLabelProviderBase
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCICategoryNumericAxis
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCICategoryNumericLabelProvider
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCICategoryTickProvider
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIChartHeatmapColourMap
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIChartLegend
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIChartLegendHorizontalLayout
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIChartLegendVerticalLayout
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIChartModifierBase
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIChartSurface
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIChartSurfaceView
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIChartSurfaceViewBase
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCICollectionChangedEventArgs
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCICollectionObserver
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIColumnHitTestProvider
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIColumnSeriesStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCICoordinateCalculatorBase
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCICoordinateCalculatorFactory
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCICoreGraphicsPointMarker
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCICreationAnnotationFactory
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCICrossPointMarker
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCICursorModifier
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCICursorModifierStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCICustomAnnotationStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCICustomRenderableSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIDataDistributionCalculatorBase
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIDataSeriesObserver
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIDateIntervalUtil
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIDateLabelFormatter
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIDateTimeAxis
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIDateTimeDeltaCalculator
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIDateTimeLabelProvider
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIDateTimeTickProvider
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIDateUtil
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIDefaultLegendItem
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIDefaultLegendItemBase
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIDefaultPieLegendItem
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIDefaultTickLabel
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIDeltaTickProvider
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIDisposableBase
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIDonutRenderableSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIDoubleAxisDelta
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIDoubleCoordinateCalculator
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIEllipsePointMarker
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIErrorBarsSeriesStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIFadeRenderableSeriesAnimation
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIFastBandRenderableSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIFastCandlestickRenderableSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIFastColumnRenderableSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIFastErrorBarsRenderableSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIFastFixedErrorBarsRenderableSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIFastImpulseRenderableSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIFastLineRenderableSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIFastMountainRenderableSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIFastOhlcRenderableSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIFastUniformHeatmapRenderableSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIFlippedDoubleCoordinateCalculator
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIFormatterLabelProviderBase
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIGestureController
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIGestureModifier
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIHitTestProviderBase
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIHlcPointSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIHlDataSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIHorizontalLineAnnotation
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIHorizontallyStackedColumnsCollection
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIImpulseSeriesStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCILabelProviderBase
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCILegendCellStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCILegendDataSource
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCILegendItem
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCILegendItemView
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCILegendModifier
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCILegendModifierBase
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCILineAnnotationLabel
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCILineAnnotationStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCILinearGradientBrushStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCILinearGradientPenStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCILineHitTestProvider
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCILineSeriesStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCILogarithmicDeltaCalculator
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCILogarithmicDoubleCoordinateCalculator
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCILogarithmicNumericAxis
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCILogarithmicNumericLabelFormatter
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCILogarithmicNumericLabelProvider
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCILogarithmicNumericTickProvider
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCILogBaseNumericLabelFormatter
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIMountainHitTestProvider
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIMountainSeriesStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIMultiSurfaceModifier
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCINiceDoubleScale
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCINiceLogScale
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCINiceTimeSpanScale
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCINumericAxis
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCINumericDeltaCalculator
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCINumericDeltaCalculatorBase
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCINumericLabelFormatter
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCINumericLabelFormatterBase
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCINumericLabelProvider
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCINumericTickLabel
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCINumericTickProvider
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIObservableCollection
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIOhlcDataSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIOhlcHitTestProvider
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIOhlcPointSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIOhlcSeriesDataView
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIOhlcSeriesInfo
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIOhlcSeriesStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIOpenGLRenderSurface
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIPaletteProvider
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIPanModifier
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIPenDashed
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIPenLinearGradient
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIPenSolid
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIPenStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIPieChartSurface
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIPieHitTestInfo
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIPieHitTestProvider
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIPieLayoutManager
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIPieLayoutPassData
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIPieLegendItem
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIPieLegendModifier
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIPieRenderableSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIPieRenderableSeriesCollection
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIPieRenderPassData
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIPieSegment
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIPieSegmentCollection
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIPieSegmentsLegendDataSource
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIPieSelectionModifier
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIPieSeriesDataView
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIPieSeriesInfo
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIPieTooltipModifier
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIPieTooltipView
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIPinchZoomModifier
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIPointMarkerBase
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIPointMarkerClusterizer
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIPointMarkerHitTestProvider
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIPointSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIRadialGradientBrushStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIRangeChangedCallbackHelper
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIRangeFactory
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIRelativeZoomModifierBase
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIRenderableSeriesBase
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIRenderPassData
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIRenderPassInfo
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIRenderSurfaceBase
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIRenderSurfaceStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIRolloverModifier
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIRolloverModifierStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIScaleRenderableSeriesAnimation
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIScatterSeriesStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIScientificNumericLabelFormatter
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCISeriesInfo
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCISeriesInfoLegendDataSource
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCISeriesSelectionModifier
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCISimpleNumericLabelFormatter
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCISolidBrushStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCISolidPenStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCISpritePointMarker
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCISquarePointMarker
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIStackedColumnRenderableSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIStackedMountainHitTestProvider
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIStackedMountainRenderableSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIStackedSeriesCollectionBase
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIStringUtil
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCISweepRenderableSeriesAnimation
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCITextAnnotationStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCITextFormattingStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCITextureBrushStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIThemeColorProvider
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCITickCoordinates
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCITickCoordinatesProviderDefault
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCITickProvider
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCITimeSpanAxisBase
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCITimeSpanDelta
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCITimeSpanDeltaCalculatorBase
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCITimeSpanTickProviderBase
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCITooltipDataView
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCITooltipModifier
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCITooltipModifierStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCITooltipView
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCITradeChartAxisLabelFormatter
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCITradeChartAxisLabelProvider
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCITrianglePointMarker
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIUniformHeatmapDataSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIUniformHeatmapHitTestProvider
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIUniformHeatmapSeriesStyle
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIUpdateSuspender
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIUserDefinedDistributionCalculator
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIVerticalLineAnnotation
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIVerticallyStackedColumnsCollection
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIVerticallyStackedMountainsCollection
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIViewportManager
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIWaveRenderableSeriesAnimation
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIXAxisDragModifier
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIXyDataSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIXyScatterRenderableSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIXySeriesDataView
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIXySeriesInfo
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIXyyDataSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIXyyPointSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIXyySeriesDataView
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIXyySeriesInfo
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIXyzDataSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIXyzPointSeries
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIXyzSeriesDataView
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIXyzSeriesInfo
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIYAxisDragModifier
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIZoomExtentsModifier
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIZoomPanModifier
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+ObjectiveCClass=OBJC_CLASS_$_SCIZoomPanModifierBase
+	/Users/ilijakocev/Projects/UnsortedData/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.2-12.1/mtouch-cache/1-Link/SciChart.iOS.Charting.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret
