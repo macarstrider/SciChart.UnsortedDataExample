@@ -82,11 +82,11 @@
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
     <Reference Include="Xamarin.iOS" />
-    <Reference Include="SciChart.iOS.Charting">
-      <HintPath>..\packages\SciChart.iOS.2.2.1.839\lib\Xamarin.iOS10\SciChart.iOS.Charting.dll</HintPath>
-    </Reference>
     <Reference Include="mscorlib" />
     <Reference Include="System.Core" />
+    <Reference Include="SciChart.iOS.Charting">
+      <HintPath>..\packages\SciChart.iOS.2.2.2.854\lib\Xamarin.iOS10\SciChart.iOS.Charting.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Contents.json" />
