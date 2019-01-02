@@ -18,9 +18,10 @@
 <!-- distributed or made available without express written permission. -->
 <!-- ************************************************************************* -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.scichart.charting"
+    package="com.scichart.core"
     android:versionCode="1"
-    android:versionName="1.0" > <!-- used by ChartingTestRunner -->
+    android:versionName="1.0" >
+
     <uses-sdk
         android:minSdkVersion="19"
         android:targetSdkVersion="27" />

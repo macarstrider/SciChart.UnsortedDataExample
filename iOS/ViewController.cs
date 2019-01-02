@@ -16,8 +16,6 @@ namespace UnsortedData.iOS
         public override void ViewDidLoad()
         {
             base.ViewDidLoad();
-
-            // Perform any additional setup after loading the view, typically from a nib.
             Button.AccessibilityIdentifier = "myButton";
             Button.TouchUpInside += delegate
             {
@@ -25,6 +23,12 @@ namespace UnsortedData.iOS
                 Button.SetTitle(title, UIControlState.Normal);
             };
 
+            AppendDataToThrowException();
+
+        }
+
+        void AppendDataToThrowException()
+        {
             var seed = new DateTime(2015, 1, 1);
             var xVals = Enumerable
                 .Range(0, 10000)
@@ -43,13 +47,6 @@ namespace UnsortedData.iOS
 
             var ds = new XyDataSeries<DateTime, double> { SeriesName = "TEST" };
             ds.Append(xVals, yVals);
-
-        }
-
-        public override void DidReceiveMemoryWarning()
-        {
-            base.DidReceiveMemoryWarning();
-            // Release any cached data, images, etc that aren't in use.		
         }
     }
 }
